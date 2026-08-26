@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Muhammed Ishaque 👋
+# Hi, I'm Ishaque Nv.👋
 
 ### Creative Designer · Co-Founder & Pitch Deck Strategist at [SkiFi](https://skifi.co)
 
