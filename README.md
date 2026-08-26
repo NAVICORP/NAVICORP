@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="./assets/profile-banner.png" alt="Muhammed Ishaque, creative designer and pitch deck strategist" width="100%" />
-
-<br />
-
 # Hi, I'm Muhammed Ishaque 👋
 
 ### Creative Designer · Co-Founder & Pitch Deck Strategist at [SkiFi](https://skifi.co)
@@ -34,7 +30,11 @@ I turn complex ideas into pitch decks, brands and digital experiences that win a
 
 <div align="center">
 
-<img src="./assets/fiverr-performance.svg" alt="Fiverr performance: 2,054 completed orders, 929 reviews, 100% on-time delivery, 4.9 rating and 35% global reach" width="100%" />
+![Orders completed](https://img.shields.io/badge/Orders_Completed-2%2C054-1597F2?style=for-the-badge)
+![On-time delivery](https://img.shields.io/badge/On--time_Delivery-100%25-1DBF73?style=for-the-badge)
+![Overall rating](https://img.shields.io/badge/Overall_Rating-4.9%2F5-FFB33E?style=for-the-badge)
+![Client reviews](https://img.shields.io/badge/Client_Reviews-929-07111F?style=for-the-badge)
+![Global reach](https://img.shields.io/badge/Global_Reach-35%25-1769FF?style=for-the-badge)
 
 </div>
 
