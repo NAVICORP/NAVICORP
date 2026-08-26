@@ -26,8 +26,17 @@ I turn complex ideas into pitch decks, brands and digital experiences that win a
 - 🌍 Work delivered for founders and teams across **30+ countries**
 - ✨ **7+ years** of creative design experience
 - 📚 **2,700+ projects** completed across presentations and visual communication
+- ✅ **2,054 Fiverr orders** completed with **100% on-time delivery**
 - ⭐ Trusted through **929 client reviews** with a **4.9 overall rating**
 - 🤖 Exploring practical AI workflows for design, storytelling and production
+
+## Fiverr performance
+
+<div align="center">
+
+<img src="./assets/fiverr-performance.svg" alt="Fiverr performance: 2,054 completed orders, 929 reviews, 100% on-time delivery, 4.9 rating and 35% global reach" width="100%" />
+
+</div>
 
 ## What I create
 
