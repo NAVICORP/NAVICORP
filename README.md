@@ -86,7 +86,7 @@ I turn complex ideas into pitch decks, brands and digital experiences that win a
 <table>
   <tr>
     <td width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAVICORP&layout=donut&theme=github_dark&hide_border=true&bg_color=0B1220&title_color=1597F2&text_color=FFFFFF" alt="NAVICORP languages pie chart" />
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NAVICORP&theme=github_dark" alt="NAVICORP most used languages chart" />
     </td>
     <td width="50%">
       <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NAVICORP&theme=github_dark" alt="NAVICORP repositories by language pie chart" />
@@ -94,15 +94,13 @@ I turn complex ideas into pitch decks, brands and digital experiences that win a
   </tr>
   <tr>
     <td width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=NAVICORP&show_icons=true&include_all_commits=true&rank_icon=percentile&theme=github_dark&hide_border=true&bg_color=0B1220&title_color=1597F2&icon_color=1597F2&text_color=FFFFFF" alt="NAVICORP GitHub statistics bar chart" />
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NAVICORP&theme=github_dark" alt="NAVICORP GitHub statistics" />
     </td>
     <td width="50%">
       <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NAVICORP&theme=github_dark&utcOffset=5.5" alt="NAVICORP productive time chart" />
     </td>
   </tr>
 </table>
-
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NAVICORP&bg_color=0B1220&color=FFFFFF&line=1597F2&point=FFFFFF&area=true&hide_border=true)
 
 </div>
 
